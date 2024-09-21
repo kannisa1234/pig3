@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(97, 97, 97);
+    color: aliceblue;
+    padding: 25px;
+}
+h2{
+    color: rgb(94, 68, 243);
+}
+.nin ul{
+    list-style-type: none;
+    background-color: rgb(51, 51, 51);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.nin a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+}
+.nin a:hover{
+    background-color:rgb(51, 51, 51);
+}
+.nin li{
+    float: left;
+}
+.nn2{
+color: rgb(164, 81, 241);
+}
+footer{
+    background-color: rgb(59, 58, 59);
+    color: aliceblue;
+}
+ol{
+    text-align: left;
+    background-color: rgb(226, 151, 245);
+    margin: 60px;
+}
+.gallery{
+display: inline-block;
+border: 1px solid hsl;
+margin: 5px;
+}
